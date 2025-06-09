@@ -1,0 +1,3 @@
+Linux is a powerful OS.
+Many servers use Linux.
+Linux is open-source.
