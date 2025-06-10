@@ -1,0 +1,4 @@
+Error: Disk full
+Warning: CPU usage high
+error: Unable to connect
+All systems normal
