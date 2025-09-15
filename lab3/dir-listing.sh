@@ -1,4 +1,4 @@
 #!/bin/bash
-directory="/home/ubuntu"
+directory="/var/log"
 echo "Files in directory: $directory"
 ls "$directory"
